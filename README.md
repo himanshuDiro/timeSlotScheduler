@@ -2,6 +2,8 @@
 
 A responsive React component for displaying available time slots for appointments.
 
+**Live Demo:** [https://time-slot-scheduler.vercel.app/](https://time-slot-scheduler.vercel.app/)
+
 ## Features
 
 - Display a list of dates and corresponding time slots
